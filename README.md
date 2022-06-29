@@ -7,6 +7,12 @@ angela
 ## Changing this one
 
 LDAgnese
+smaddox
+
+NEW CODDEEEEEEEEE
+
+# LEMMMEEEE PULLLLLL
+
 jamsniffer
 a gga gas gs aga sg a
 this one too!
@@ -17,4 +23,7 @@ this one too!
 
 merge... conflicts....
 
-all over
+# all over
+
+=======
+mergin is wild
