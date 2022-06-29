@@ -1,18 +1,20 @@
-# mergeConflicts
-<<<<<<< HEAD
+# mergekld gkhagd k; agjag jga ad sgConflicts
 
+mergin is wild
+here and here
 angela
 
-## some one else
+## Changing this one
 
 LDAgnese
 jamsniffer
+a gga gas gs aga sg a
+this one too!
 
 || ughhhhh ||
 
-// why am I doing this?
+// why am I doafsd ing this?
 
 merge... conflicts....
-=======
-mergin is wild
->>>>>>> origin
+
+all over
