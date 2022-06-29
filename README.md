@@ -1,4 +1,5 @@
 # mergeConflicts
+<<<<<<< HEAD
 
 angela
 
@@ -12,3 +13,6 @@ jamsniffer
 // why am I doing this?
 
 merge... conflicts....
+=======
+mergin is wild
+>>>>>>> origin
